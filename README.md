@@ -3,4 +3,4 @@ Custom modules for [Odoo](https://www.odoo.com/)
 
 Some Changes to have different view
 
-With Hooks
+With Hooks, let's try with autodeploy
